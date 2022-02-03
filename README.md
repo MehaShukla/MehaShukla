@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meha Shukla</h1>
-<h3 align="center">I am a Sophomore in CSE from IET Lucknow. Practicing DSA on Hackerblocks and Leetcode and Learning Web Development and Data Science.</h3>
+<h3 align="center">I love deploying technology to solve real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehashukla&label=Profile%20views&color=0e75b6&style=flat" alt="mehashukla" /> </p>
 
