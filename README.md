@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meha Shukla</h1>
 <h3 align="center">I love deploying technology to solve real world problems.</h3>
 
+![computer-gif-gfycat](https://user-images.githubusercontent.com/75724727/170825097-62475a43-6569-4aed-a11b-aadb6d70b6f7.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehashukla&label=Profile%20views&color=0e75b6&style=flat" alt="mehashukla" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehashukla" alt="mehashukla" /></a> </p>
